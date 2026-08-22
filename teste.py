@@ -1,1 +1,1 @@
-print("Ambiente Python funcionando corretamente!")
+print("Aprendendo Git e GitHub!")
